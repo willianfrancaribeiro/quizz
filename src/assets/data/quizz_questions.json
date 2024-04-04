@@ -1,0 +1,31 @@
+{
+  "title":"Heroi ou vilão",
+  "questions":[
+    {
+      "id":1,
+      "question":"Qual super poder você escolheria?",
+      "options":[
+        {"id":1,"name":"Raios-Lasers","alias":"A"},
+        {"id":2,"name":"voar","alias":"B"},
+        {"id":3,"name":"Explodir coisas","alias":"A"},
+        {"id":4,"name":"Curar feridas","alias":"B"},
+        {"id":5,"name":"Soltar fogo pelas mãos","alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question":"Quem você salvaria primeiro?",
+      "options":[
+        {"id":1,"name":"Pet","alias":"A"},
+        {"id":2,"name":"criança","alias":"B"},
+        {"id":3,"name":"mulheres","alias":"A"},
+        {"id":4,"name":"idosos","alias":"B"},
+        {"id":5,"name":"Não sei","alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A":"Vilão",
+    "B":"Hero"
+  }
+}
